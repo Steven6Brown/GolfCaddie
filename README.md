@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="branding/golfcaddie-logo.png" alt="GolfCaddie logo" width="140">
-  <h1>GolfCaddie</h1>
+  <img src="branding/golfcaddie-logo.png" alt="GolfCaddie logo" width="260">
 
   <p><strong>Your personal golf assistant.</strong></p>
 
